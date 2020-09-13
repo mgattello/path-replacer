@@ -18,8 +18,8 @@ The `pathReplacer` function must be called with all the args.
 The module will look at the depth of the file and reconstruct the full path automatically with the partial. All matches will be replace with the full path, i.e.:
 
 ```
-`/src/config/` (partial)
-'../../../src/config/` (full path)
+'/src/config/' (partial)
+'../../../src/config/' (full path)
 ```
 
 ## How to use it?

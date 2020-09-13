@@ -25,7 +25,7 @@ The module will look at the depth of the file and reconstruct the full path auto
 ## How to use it?
 
 ```javascript
-const pathReplacer = require('path-replacer')
+const pr = require('path-replacer')
 
-pathReplacer(dir, search, partial)
+pr(dir, search, partial)
 ```

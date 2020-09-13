@@ -1,0 +1,14 @@
+{
+  "name": "path-replacer",
+  "version": "1.0.1",
+  "description": "Replace matched values with chosen path and reconstruct the dependencies of all files.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Marco Gattello",
+  "license": "ISC",
+  "dependencies": {
+    "file-system": "^2.2.2"
+  }
+}
